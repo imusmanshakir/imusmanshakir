@@ -8,7 +8,7 @@
 
 ● 🚀 I'm learning React, Node.js & Backend Development  
 
-● 💬 Ask me about [JavaScript, React, Node.js]  
+● 💬 Ask me about [JavaScript, React, Node.js, DSA(C++)]  
 
 ● 🤝 I’m looking to collaborate on real-world projects 
 
