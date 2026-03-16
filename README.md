@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there 👋, I'm Osman<br>● 👨‍💻 I'm a Backend / Full Stack Developer<br><br>● 🎓 I'm studying Computer Science<br><br>● 🌍 I'm from Lahore, Pakistan<br><br>● 🚀 I'm learning React, Node.js & Backend Development<br><br>● 💬 Ask me about [JavaScript, React, Node.js, DSA(C++)]<br><br>● 🤝 I’m looking to collaborate on real-world projects<br><br>● ⚡ Fun fact: 0.1 + 0.2 = 0.30000000000000004 in JavaScript 😅<br><br>● ⚡ Fun fact about me: I like pop science, physics and astronomy<br><br>● 📫 How to reach me: imusmanshakir@gmail.com
 
 
